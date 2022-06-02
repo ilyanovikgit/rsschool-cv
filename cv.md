@@ -1,15 +1,16 @@
 # Ilya Novik
------------------------------------------------
+***
 
 ## Junior Frontend Developer
------------------------------------------------
+***
 
 ### Contact information:
 -----------------------------------------------
-Phone: +375-29-274-41-66  
-E-mail: ilya.novik@gmail.com  
-Telegram: @novikiu  
-<code>[https://www.linkedin.com/in/ilya-novik-16778b195/][LinkedIn]  
+**Phone:** +375-29-274-41-66  
+**E-mail:** ilya.novik@gmail.com  
+**Telegram:** @novikiu  
+[LinkedIn](https://www.linkedin.com/in/ilya-novik-16778b195/)
+
 -----------------------------------------------
 
 ### Some information about myself:
@@ -33,6 +34,9 @@ Actually I guess, that my current skills will help me in new area of IT and I wi
 * Сommunication with other team members
 
 **TECHNICAL SKILLS**
+
+Name of skill  | Tool
+:-------------: | :-------------:
 Debug tools | DB, xCode, Chrome Dev tools, Charles, Postman
 Version control system | Git
 Web technologies | HTML, XML, JSON
@@ -43,5 +47,22 @@ Bug tracking systems | IRA, Trello, Asana
 Test Management systems | TestRail
 UI / Design testing | Pixel-perfect, Cross-Browser testing
 
-Code example:
+### Code example:
 -----------------------------------------------
+``` 
+function multiply (a, b) {
+return a * b
+}
+```
+
+### Courses:
+-----------------------------------------------
+
+* Manual QA courses
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+### Languages:
+-----------------------------------------------
+
+* English - Intermediate
+* Russian - Native
