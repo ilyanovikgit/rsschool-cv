@@ -1,8 +1,6 @@
 # Ilya Novik
-***
 
 ## Junior Frontend Developer
-***
 
 ### Contact information:
 -----------------------------------------------
