@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+.nav-active {
+    padding-top: 14px;
+    padding-right: 10px;
+    padding-bottom: 14px;
+    padding-left: 10px;
+    line-height: 50px;
+    padding: 20px;
+    background-color: #f7f8ff;
+    border-bottom: #000 solid 1px;
+}
+
+.body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.contact-info {
+    color: black;
+    margin-left: 350px;
+    margin-right: 50px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.about {
+    color: black;
+    margin-right: 50px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.skills {
+    color: black;
+    margin-right: 50px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.code-example {
+    color: black;
+    margin-right: 50px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.courses {
+    color: black;
+    margin-right: 50px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.main-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    padding-left: 100px;
+    font-size: 72px;
+    margin-bottom: 0px;
+}
+
+.firstname_black {
+    color: black;
+}
+
+.lastname_yellow {
+    color: #f1cb59;
+}
+
+.position-title {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    padding-left: 100px;
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+.contacts-image {
+    width: 50px;
+    height: 150px;
+    padding-left: 100px;
+    padding-top: 50px;
+    float: left;
+}
+
+.phone {
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    padding-left: 100px;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.number {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+.email {
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    padding-left: 100px;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.email-link {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+.address {
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    padding-left: 100px;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.about-me-title {
+    font-family: 'Poppins', sans-serif;
+    color: #f1cb59;
+    padding-top: 50px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    position: absolute;
+    padding-left: 100px;
+}
+
+.about-me-text {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    padding-top: 127px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.code-example-title {
+    font-family: 'Poppins', sans-serif;
+    color: #f1cb59;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding-top: 50px;
+    padding-left: 100px;
+	margin: 0;
+	border: 0;
+}
+
+.code-section {
+    padding-left: 30px;
+	margin: 0;
+	border: 0;
+}
+
+.code-example-1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+}
+
+.avatar-image {
+    width: 350px;
+    height: 350px;
+    float: right;
+    margin-bottom: 200px;
+    position: absolute;
+    top: 150px;
+    margin-left: 130px;
+}
+
+.right-section {
+    width: 40%;
+    height: 100%;
+    background-color: #fff;
+    background-size: cover;
+    float: right;
+}
+
+.left-section {
+    width: 60%;
+    height: 1700px;
+    padding: 14px;
+    background-color: #f7f8ff;
+    background-size: cover;
+    float: left;
+    
+}
+
+.skills-title {
+    font-family: 'Poppins', sans-serif;
+    color: #f1cb59;
+    padding-top: 90px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 500px;
+    margin-left: 120px;
+}
+
+.skills-list {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 650px;
+    font-weight: 100;
+    margin-left: 100px;
+    margin-right: 100px;
+    list-style-type: square;
+}
+
+li::marker {
+    color: #f1cb59;
+  }
+
+.technical-skills {
+    font-family: 'Poppins', sans-serif;
+    color: #f1cb59;
+    padding-top: 90px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 860px;
+    margin-left: 120px;
+}
+
+.technical-skills-table {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    margin-left: 50px;
+    margin-right: 30px;
+    position: absolute;
+    top: 1030px;
+}
+
+td {
+    border: #000 solid 1px;
+}
+
+.courses-title {
+    font-family: 'Poppins', sans-serif;
+    color: #f1cb59;
+    padding-top: 90px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 1280px;
+    margin-left: 120px;
+}
+
+.courses-list {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 1420px;
+    font-weight: 100;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    list-style-type: square;
+}
+
+.languages-title {
+    font-family: 'Poppins', sans-serif;
+    color: #f1cb59;
+    padding-top: 90px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 1440px;
+    margin-left: 120px;
+}
+
+.languages-list {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 1585px;
+    font-weight: 100;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    list-style-type: square;
+}
+
+.footer {
+    background: #f7f8ff;
+    margin-top: 1729px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    border-top: #000 solid 1px;
+}
+
+.git-link {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    float: left;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+}
+
+.git-svg {
+    width: 35px;
+    height: 35px;
+    padding-left: 60px;
+    padding-top: 22px;
+    float: left;
+}
+
+.year {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    max-width: 80px;
+    position: absolute;
+    margin-left: 700px;
+    padding-top: 8px;
+}
+
+.rs-school-svg {
+    width: 50px;
+    height: 50px;
+    padding-top: 18px;
+    margin-right: 70px;
+    float: right;
+}
